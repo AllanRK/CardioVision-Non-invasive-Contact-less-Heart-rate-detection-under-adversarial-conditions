@@ -24,6 +24,7 @@ Use !pip install module_name to resolve any missing dependencies.
 *****************************************************************************************************************************************
 
 ## Dataset - https://drive.google.com/drive/folders/1KfaETUvJ_d0XaoLuJtikIUg4jqr1PAym?usp=sharing  <br>
+## Forhead Detection Dataset - https://www.kaggle.com/datasets/avnishtripathi/forehead-detection-dataset <br> 
 data - It contains human faces and their forheads as labels. <br>
 aug_data - It contains augmented data. <br>
 lol_dataset - It contains low light and high light images for training of Zero_dce model. <br>
@@ -58,8 +59,8 @@ All notebooks contains detailed explanation of code Written.  <br>
 
 *****************************************************************************************************************************************
 
-**Note - Keep all notebooks, data , aug_data , lol_dataset , models in same directory(Folder).**
-** Please refer to the report in case of any doubts as it contains a well-detailed explaination of the entire project **
+**Note - Keep all notebooks, data , aug_data , lol_dataset , models in same directory(Folder).** <br>
+**Please refer to the report in case of any doubts as it contains a well-detailed explaination of the entire project **
 
 Please feel free to contact me in case of any issue. <br>
 
