@@ -23,8 +23,8 @@ Use !pip install module_name to resolve any missing dependencies.
 
 *****************************************************************************************************************************************
 
-## Dataset - https://drive.google.com/drive/folders/1KfaETUvJ_d0XaoLuJtikIUg4jqr1PAym?usp=sharing  <br>
-## Forhead Detection Dataset - https://www.kaggle.com/datasets/avnishtripathi/forehead-detection-dataset <br> 
+###  Dataset - https://drive.google.com/drive/folders/1KfaETUvJ_d0XaoLuJtikIUg4jqr1PAym?usp=sharing  <br>
+### Forhead Detection Dataset - https://www.kaggle.com/datasets/avnishtripathi/forehead-detection-dataset <br> 
 data - It contains human faces and their forheads as labels. <br>
 aug_data - It contains augmented data. <br>
 lol_dataset - It contains low light and high light images for training of Zero_dce model. <br>
