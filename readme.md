@@ -54,17 +54,17 @@ haarcascade_frontalface_default - Hugging_face model that give facial landmarks 
 6)- heart_rate_prediction - This notebook contains code for heart rate predcition.
 
 
-All notebooks contains detailed explanation of code Written.
+All notebooks contains detailed explanation of code Written.  <br>
 
-***********************************************************************************************************************************************************
+*****************************************************************************************************************************************
 
 **Note - Keep all notebooks, data , aug_data , lol_dataset , models in same directory(Folder).**
 
-Please feel free to contact us in case of any issue.
+Please feel free to contact us in case of any issue. <br>
 
-Allan Robey - allanrobey22@iitk.ac.in
-Avnish Tripathi - avnisht22@iitk.ac.in
-Divyesh Tripathi- divyeshdt22@iitk.ac.in
-Kush Shah - kushshah22@iitk.ac.in
-Pulkit Sharma - pulkitsh22@iitk.ac.in
+Allan Robey - allanrobey22@iitk.ac.in  <br>
+Avnish Tripathi - avnisht22@iitk.ac.in  <br>
+Divyesh Tripathi- divyeshdt22@iitk.ac.in  <br>
+Kush Shah - kushshah22@iitk.ac.in  <br>
+Pulkit Sharma - pulkitsh22@iitk.ac.in  <br>
 
