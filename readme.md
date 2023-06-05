@@ -59,12 +59,9 @@ All notebooks contains detailed explanation of code Written.  <br>
 *****************************************************************************************************************************************
 
 **Note - Keep all notebooks, data , aug_data , lol_dataset , models in same directory(Folder).**
+** Please refer to the report in case of any doubts as it contains a well-detailed explaination of the entire project **
 
-Please feel free to contact us in case of any issue. <br>
+Please feel free to contact me in case of any issue. <br>
 
 Allan Robey - allanrobey22@iitk.ac.in  <br>
-Avnish Tripathi - avnisht22@iitk.ac.in  <br>
-Divyesh Tripathi- divyeshdt22@iitk.ac.in  <br>
-Kush Shah - kushshah22@iitk.ac.in  <br>
-Pulkit Sharma - pulkitsh22@iitk.ac.in  <br>
 
